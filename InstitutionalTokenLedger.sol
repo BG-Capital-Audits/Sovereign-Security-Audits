@@ -1,11 +1,9 @@
-solidity 
-// Soveriegn Token Ledger Live 
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
 /**
  * @title InstitutionalTokenLedger
- * @notice A high-barrier smart contract designed to track and route token balances.
+ * @notice Core registry contract designed for institutional asset tracking and balance routing.
  */
 contract InstitutionalTokenLedger {
 
